@@ -1,3 +1,5 @@
+link to my-store:tobsyd.github.io/my-store
+
 # Final Project and Deployment
 
 ## Objectives
